@@ -1,0 +1,23 @@
+/*
+Theme Name: Quinnie
+Description: Quinnie is a modern and clean Gutenverse theme for Plastic Surgery Center, Rhinoplasty Clinic, Cosmetic, Dermatology Clinics, Skin Care Center, Dermatologists, Cosmetologists, and any kind of beauty products and services.
+Author: Jegtheme
+Author URI: https://support.jegtheme.com/
+Theme URI: https://fse.jegtheme.com/quinnie/
+Version: 1.0.0
+Stable tag: 1.0.0
+Requires at least: 6.2
+Tested up to: 6.6
+Requires PHP: 7.4.21
+License: GNU General Public License v3 or later.
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: quinnie
+Tags: block-patterns,custom-colors,custom-logo,editor-style,featured-images,full-site-editing,custom-menu
+*/
+
+:root{
+    
+}
+.editor-styles-wrapper .block-editor-block-list__layout.is-root-container > .block-library-block__reusable-block-container {
+    max-width: 100%;
+}
